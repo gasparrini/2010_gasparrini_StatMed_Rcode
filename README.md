@@ -4,7 +4,7 @@
 
 An example of application of distributed lag non-linear models (DLNMs) in time series analysis. The example is similar to that included in the article:
 
-Gasparrini A, Armstrong B, Kenward MG. Distributed lag non-linear models. *Statistics in Medicine*. 2010;29(21):2224-2234. [[freely available here](http://www.ag-myresearch.com/2010_gasparrini_statmed.html)]
+Gasparrini A, Armstrong B, Kenward MG. Distributed lag non-linear models. *Statistics in Medicine*. 2010;29(21):2224-2234. DOI: 10.1002/sim.3940. PMID: 20812303. [[freely available here](http://www.ag-myresearch.com/2010_gasparrini_statmed.html)]
 
 The article and code introduce the [R package dlnm](https://github.com/gasparrini/dlnm). Note that the syntax and usage of the functions have changed considerably since the version used for the original analysis, and the code has been updated accordingly.
 
